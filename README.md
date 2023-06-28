@@ -25,19 +25,29 @@ git clone https://github.com/Keely1112/restaurant.git
 ```
 
 2.開啟 terminal
-```cd restaurant```
+```
+cd restaurant
+```
 
 3.安裝npm套件
-```npm install```
+```
+npm install
+```
 
 4.安裝nodemon套件
-```npm install --save-dev nodemon```
+```
+npm install --save-dev nodemon
+```
 
 5.啟動伺服器
-```npm run dev```
+```
+npm run dev
+```
 
 6.出現以下內容表示伺服器已啟動
-```Express is listening on http://localhost:3000```
+```
+Express is listening on http://localhost:3000
+```
 
 ---
 ### 開發工具
