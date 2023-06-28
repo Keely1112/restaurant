@@ -1,0 +1,41 @@
+ <div class="container mt-4 mb-3" style="width:40rem; border: 1px solid black;">
+    <div class="row">
+      <div class="col-12 col-md-10 mx-auto">
+      <h2 class="mb-1 restaurant-show-title" style="color: rgb(255, 255, 255);">{{restaurants.name}}</h2>
+        <p class="mb-1">
+          <span class="text-secondary">
+            <i class="fas fa-utensils pr-2"></i>
+            類別：
+          </span>
+          {{restaurants.category}}
+        </p>
+
+        <p class="mb-1">
+          <span class="text-secondary">
+            <i class="fas fa-map-marker-alt pr-2"></i>
+            地址：
+          </span>
+          {{restaurants.location}}
+          <a href="https://goo.gl/maps/V9mKwVJ4s5v" class="text-secondary" target="_blank">
+            <i class="fas fa-location-arrow pr-2 fa-xs"></i>
+          </a>
+        </p>
+
+        <p class="mb-1">
+          <span class="text-secondary">
+            <i class="fas fa-mobile-alt pr-2"></i>
+            電話：
+          </span>
+          {{restaurants.phone}}
+        </p>
+
+        <p class="mb-3">
+         {{restaurants.description}}
+        </p>
+
+        <img class="rounded mx-auto d-block mb-4 w-100"
+          src="{{restaurants.image}}" alt="布娜飛比利時啤酒餐廳"
+          style="border-radius:1px; max-width: 450px;">
+      </div>
+    </div>
+  </div>
