@@ -1,4 +1,7 @@
 # restaurant＿list
+### 專案畫面
+![image](https://github.com/Keely1112/restaurant/blob/master/image1.png)
+![image](https://github.com/Keely1112/restaurant/blob/master/image2.png)
 ### introduce
 1.在首頁可以看到所有餐廳與它們的簡單資料：
 * 餐廳照片
