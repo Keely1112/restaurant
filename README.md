@@ -34,17 +34,12 @@ cd restaurant
 npm install
 ```
 
-4.安裝nodemon套件
-```
-npm install --save-dev nodemon
-```
-
-5.啟動伺服器
+4.啟動伺服器
 ```
 npm run dev
 ```
 
-6.出現以下內容表示伺服器已啟動
+5.出現以下內容表示伺服器已啟動
 ```
 Express is listening on http://localhost:3000
 ```
