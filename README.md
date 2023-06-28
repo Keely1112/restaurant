@@ -20,7 +20,9 @@
 ### install
 
 1.打開 terminal，Clone 此專案至本機電腦
-```git clone https://github.com/Keely1112/restaurant.git```
+```
+git clone https://github.com/Keely1112/restaurant.git
+```
 
 2.開啟 terminal
 ```cd restaurant```
