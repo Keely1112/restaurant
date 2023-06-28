@@ -29,10 +29,10 @@
 ```npm install```
 
 4.安裝nodemon套件
-```nodemon app.js```
+```npm install --save-dev nodemon```
 
 5.啟動伺服器
-```nodemon app.js```
+```npm run dev```
 
 6.出現以下內容表示伺服器已啟動
 ```Express is listening on http://localhost:3000```
